@@ -2,7 +2,7 @@
 - 👀 Passionate about data visualization, dashboard design, and turning complex data into business insights
 - 🌱 Currently exploring advanced DAX and data modeling techniques
 - 💞️ Open to BI Analyst opportunities in the EMEA Region
-- 📫 juderaji10@gmail.com | linkedin.com/in/jude-raji
+- 📫 juderaji10@gmail.com | https://linkedin.com/in/jude-raji
 
 <!---
 JudeRaji/JudeRaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
